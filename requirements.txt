@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+streamlit
+pandas
+loguru
+python-dotenv
+langchain
+langchain_ollama
+langchain-community
+pinecone
+langchain_pinecone
+pypdf
+sentence-transformers
+torch==2.5.1+cu118
+torchvision
+torchaudio
+-e .
